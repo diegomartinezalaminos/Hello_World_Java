@@ -1,7 +1,7 @@
 /**
  * Muestra por pantalla la frase "¡Hola mundo!"
  *
- * @author Luis J. Sánchez
+ * @author Diego Martínez Alaminos
  */
 public class HelloWorld { // Clase principal
   public static void main(String[] args) {
